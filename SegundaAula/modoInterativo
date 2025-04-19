@@ -1,0 +1,11 @@
+Para iniciar podemos escrever no terminal python
+podemos executar codigos direto sem precisar escrever os comandos diretos
+podemos tambem escrever python -i e nome do programa
+
+funções uteis
+dir() => tras o escopo local
+podemos passar um parametro por exemplo
+dir(100) => tras os metodos da classe int pois ele entende que é do tipo int
+podemos utilizar o help() ele traz a documentação do obj
+exemplo
+help(100) => traz a documentação do int
